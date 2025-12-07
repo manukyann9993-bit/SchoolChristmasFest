@@ -26,7 +26,7 @@ h1, h2, h3 {
   padding: 130px 20px;
   background:
     linear-gradient(rgba(10, 20, 15, 0.75), rgba(10, 20, 15, 0.9)),
-    url('https://thumbs.dreamstime.com/b/snowman-christmas-tree-decoration-background-season-holi-snowman-christmas-tree-decoration-background-season-133451273.jpg');
+    url('https://i.pinimg.com/1200x/6e/38/65/6e386530f9f3ebc66de5452040b43835.jpg');
   background-size: cover;
   background-position: center;
   color: var(--gold);
@@ -40,9 +40,14 @@ h1, h2, h3 {
   animation: shimmer 3s infinite alternate ease-in-out;
 }
 
-.hero p {
+.cozy {
   color: #fff8e1;
   font-size: 1.3rem;
+}
+
+.org {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 1rem;
 }
 
 @keyframes shimmer {
